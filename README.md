@@ -14,7 +14,7 @@
 <!-- Joke of the Day -->
 <h1>Joke of the Day</h1>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<p>refresh for new joke</p>
+<p style="font-style: italic; color: grey; font-size: small;">Refresh for new joke</p>
 
 <h1>
   hey there
